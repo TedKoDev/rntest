@@ -96,4 +96,16 @@ yarn add @types/react-native-onboarding-swiper
 
 ```
 
-###
+### 9.Lottie React Native https://github.com/lottie-react-native/lottie-react-native
+
+```
+LottieFiles https://lottiefiles.com/
+
+
+yarn add lottie-react-native
+
+ios를 위해 pod install 해줘야함
+
+```
+
+### 10.
